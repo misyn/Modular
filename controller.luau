@@ -1,6 +1,6 @@
 return {
     -- Aim games
-    [universeID] = placeID,   -- game name
+    -- [universeID] = placeID,   -- game name
     
     -- Combat games  
     [4658598196] = 13165280386,   -- Attack on Titan Revolution
